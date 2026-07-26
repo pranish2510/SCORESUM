@@ -21,13 +21,3 @@ A fully responsive, real-time web application designed to digitize local grassro
 <img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/256278cb-983e-4788-947c-14e0096577ef" />
 <img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/8ed8bbaf-ce74-45eb-9e45-3f8df2c863d1" />
 
-## 💻 Getting Started
-To run this project locally, follow these steps:
-
-### Prerequisites
-Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/pranish2510/SCORESUM.git]
