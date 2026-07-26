@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+/* This tells Tailwind to use our Day/Night toggle button */
+@custom-variant dark (&:is(.dark *));
+
+/* This is the new v4 way to set up your brand colors */
+@theme {
+  --color-obsidian: #0B0E14;
+  --color-neon: #CCFF00;
+  --color-slateSecondary: #1E293B;
+  --color-electricRed: #FF3131;
+  --color-springGreen: #00FF85;
+  
+  --color-dayBackground: #FFFFFF;
+  --color-dayText: #0B0E14;
+  --color-daySurface: #F1F5F9;
+
+  --font-heading: var(--font-kanit), sans-serif;
+  --font-body: var(--font-inter), sans-serif;
+}
